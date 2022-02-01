@@ -1,0 +1,9 @@
+######### Result 1050 ##############
+laser_template_size = 180
+vt_match_threshold = 0.035
+######### Result 1340 ##############
+laser_template_size = 180
+vt_match_threshold = 0.04
+######### Result 1430 ##############
+laser_template_size = 180
+vt_match_threshold = 0.03
